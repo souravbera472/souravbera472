@@ -38,6 +38,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_Solr_logo.svg" height="40" alt="apachesolr logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -57,6 +59,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sourav-bera-9663a4187"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<img width="12" />
+<a href = "https://leetcode.com/u/sourav472"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=48"/></a>
+<img width="12" />
+<a href = "https://www.geeksforgeeks.org/user/souravbera472"><img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"/></a>
+
 
 
 </p>
